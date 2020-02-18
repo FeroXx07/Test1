@@ -3,6 +3,8 @@ Hollow Faith is a 2d arcade platformer game developed by 2 students in CITM duri
 
 *All feedback has been applied at the project. Thanks for it.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQGKAIaUlpk">
+ </iframe>
 
 ## Find our project Web Page in: 
 https://juanha2.github.io/HollowFaith/
